@@ -1,1 +1,1 @@
-GitHub Link: https://github.com/AjaySolan/ShoppyGlobegit
+GitHub Link: https://github.com/AjaySolan/ShoppyGlobe
